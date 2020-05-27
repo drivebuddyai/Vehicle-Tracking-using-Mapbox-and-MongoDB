@@ -21,3 +21,6 @@ Expectations
 4. git repo link for above project once completed
 
 Timeline: 2 days
+
+
+For any query you can directly reach out to us at connect@drivebuddyai.com
